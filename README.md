@@ -1,2 +1,2 @@
 # python-practice
-My Python learning journey and practice programs
+I am learning Git merge conflicts - version A.
